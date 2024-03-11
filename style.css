@@ -1,3 +1,17 @@
+
+@font-face {
+  font-family: Awakenning;
+  src:
+  local("Awakenning"),
+  url("Awakenning.ttf");
+  font-family: Oswald;
+  src:url('Oswald.ttf');
+
+
+}
+
+
+
 body {
   background-image:url("img/preface.jpg");
   height: 100%;
