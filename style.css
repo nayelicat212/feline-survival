@@ -1,0 +1,120 @@
+body {
+  background-image:url("img/preface.jpg");
+  height: 100%;
+  text-align: center;
+  padding: 80px;
+  background-color: black;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: auto;
+  
+  
+}
+
+@font-face {
+  font-family: HeadlinerNo.45;
+  src:url("HeadlinerNo.45.ttf");
+  font-family: Oswald;
+  src:url('Oswald.ttf');
+
+
+}
+
+h1{
+  font-family: 'HeadlinerNo.45', sans-serif;
+  font-size: 70px;
+  color: #671714;
+  margin-bottom: 50px;
+  
+
+
+}
+
+h2{
+font-family:'Oswald', sans-serif;
+color: white;
+
+}
+
+h3{
+  font-family: 'HeadlinerNo.45', sans-serif;
+  font-size: 40px;
+  color:#671714;
+  
+}
+
+p{
+  font-family:'Oswald', sans-serif;
+color: white;
+padding-bottom: 50px;
+
+}
+
+
+div {
+  background-color: rgba(0, 0, 0, 0.37);
+  padding: 30px;
+  
+  
+  
+  
+  
+  
+}
+
+
+
+
+.button{
+  font-family:'Oswald', sans-serif;
+  font-size: 18px;
+  padding: 10px 26px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  background-color: #E38A02;
+  text-decoration: none;
+  color: white;
+  border-radius: 20px;
+}
+
+
+.button1{
+  font-family:'Oswald', sans-serif;
+  font-size: 26px;
+  padding: 10px 26px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  background-color: #E38A02;
+  text-decoration: none;
+  color: white;
+  border-radius: 20px;
+}
+
+  .button2 {
+    font-family:'Oswald', sans-serif;
+  font-size: 18px;
+  padding: 10px 26px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  margin-right: 12px;
+  background-color: #E38A02;
+  text-decoration: none;
+  color: white;
+  border-radius: 20px;
+  }
+
+  .backimage {
+   
+  
+  }
+
+  .box{
+    
+  }
+
+  .preface{
+    font-family:'Oswald', sans-serif;
+    color: white;
+    font-size: 20px;
+
+  }
