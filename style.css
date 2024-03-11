@@ -2,9 +2,9 @@
 
 @font-face {
 
- font-family: Awakenning;
+ font-family: HeadlinerNo45;
   
-  src: url("Awakenning.ttf") format('truetype');
+  src: url("HeadlinerNo.45.ttf") format('truetype');
 }
 
 
@@ -40,7 +40,7 @@ body {
 
 
 h1{
-  font-family: "Awakenning", sans-serif;
+  font-family: "HeadlinerNo45", sans-serif;
   font-size: 70px;
   color: #671714;
   margin-bottom: 50px;
@@ -56,7 +56,7 @@ color: white;
 }
 
 h3{
-  font-family:  "Awakenning", sans-serif;
+  font-family:  "HeadlinerNo45", sans-serif;
   font-size: 40px;
   color:#671714;
   
