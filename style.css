@@ -13,7 +13,9 @@ body {
 
 @font-face {
   font-family: HeadlinerNo.45;
-  src:url('HeadlinerNo.45.ttf');
+  src:
+  local("HeadlinerNo45"),
+  url("HeadlinerNo45.ttf");
   font-family: Oswald;
   src:url('Oswald.ttf');
 
@@ -21,7 +23,7 @@ body {
 }
 
 h1{
-  font-family: 'HeadlinerNo.45', sans-serif;
+  font-family: 'HeadlinerNo45',fantasy;
   font-size: 70px;
   color: #671714;
   margin-bottom: 50px;
@@ -37,7 +39,7 @@ color: white;
 }
 
 h3{
-  font-family: 'HeadlinerNo.45', sans-serif;
+  font-family: 'HeadlinerNo45', fantasy;
   font-size: 40px;
   color:#671714;
   
@@ -103,14 +105,8 @@ div {
   border-radius: 20px;
   }
 
-  .backimage {
-   
   
-  }
-
-  .box{
-    
-  }
+ 
 
   .preface{
     font-family:'Oswald', sans-serif;
